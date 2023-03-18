@@ -1,0 +1,5 @@
+name: Troll
+version: 1.0
+main: com.troll.start.Start
+commands:
+   test:
